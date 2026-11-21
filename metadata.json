@@ -1,0 +1,6 @@
+{
+  "name": "Madya — Dashboard Layanan Wasiat Tertutup",
+  "description": "Platform layanan notaris Madya untuk pengelolaan Berita Acara pembukaan wasiat tertutup, cetak 2 salinan resmi, pemantauan SLA tenggat, dan arsip berkas digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
